@@ -2,9 +2,11 @@
 
 
 
-This project contains small scripts that are useful to perform different types of
-error analysis for Recognyze and related/competing 
-(AIDA, Spotlight, Babelfy) tools.
+This project contains small scripts that were used for the error analysis work described in:
+
+    Adrian M.P. Brasoveanu, Giuseppe Rizzo, Philipp Kuntshik, Albert Weichselbraun, Lyndon J.B. Nixon. 
+    Framing Named Entity Linking Error Types. 
+    LREC 2018.
 
 ### WORKFLOW
 
@@ -58,10 +60,10 @@ http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=descr
 
 
 #### CURRENT ANNOTATORS
-* Recognyze
-* AIDA
+* AIDA 
 * Spotlight
 * Babelnet
+* Recognyze (German)
 
 #### GERBIL RUNS
 * REUTERS128 - http://gerbil.aksw.org/gerbil/experiment?id=201611210001
