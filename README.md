@@ -60,10 +60,10 @@ http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=descr
 
 
 #### CURRENT ANNOTATORS
-* Recognyze
-* AIDA
+* AIDA 
 * Spotlight
 * Babelnet
+* Recognyze (German)
 
 #### GERBIL RUNS
 * REUTERS128 - http://gerbil.aksw.org/gerbil/experiment?id=201611210001
