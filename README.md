@@ -22,7 +22,8 @@ error analysis for Recognyze and related/competing
 http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=describe+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FReuter%3E&format=text%2Fhtml&CXML_redir_for_subjs=121&CXML_redir_for_hrefs=&timeout=30000&debug=on 
         * Should i still keep it in the GS? Or we mention that an error exists
         * Redirects (e.g., http://dbpedia.org/resource/Carnival_Cruise_Lines)
-        * Annotations in another language (e.g., de.dbpedia.org instead of dbpedia.org URIs) - We keep them because we aim to be transparent to the annotator output.
+    * Annotations in another language (e.g., de.dbpedia.org instead of dbpedia.org URIs) 
+        * We keep them because we aim to be transparent to the annotator output.
     * Type
         * Check that the resulting types are correct in both gold standard and automated annotator.
 3. run neleval evaluate script
