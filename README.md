@@ -8,6 +8,12 @@ This project contains small scripts that were used for the error analysis work d
     Framing Named Entity Linking Error Types. 
     LREC 2018.
 
+### FOLDERS
+* src - source code files
+* batch - batch files used for running evaluations
+* guideline - annotation guideline
+* examples - examples discussed in the paper
+
 ### WORKFLOW
 
 #### Current
