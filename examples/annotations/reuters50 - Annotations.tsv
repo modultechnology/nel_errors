@@ -1,0 +1,303 @@
+doc	start	end	link	type	surfaceForm	tac	errorType	errorCause	inGold	goldLink	Spotlight	Babelnet	AIDA	Recognyze	Comments
+0	53	57	http://dbpedia.org/resource/Lohn,_Schaffhausen	Location	Lohn	extra	Annotator		0		0	0	1	0	
+0	59	71	http://dbpedia.org/resource/Germany	Location	West Germany	wrong-link	Annotator		1	http://dbpedia.org/resource/West_Germany	1	0	0	0	
+10	0	2	http://dbpedia.org/resource/Nevada	Location	NV	extra	Annotator		0		0	1	0	0	
+1	0	10	http://dbpedia.org/resource/Key_Tronic	Organisation	Key Tronic	extra	Annotator		0		0	1	0	0	
+10	141	144	http://dbpedia.org/resource/Der_(Sumer)	Location	der	extra	Annotator		0		0	1	0	0	
+10	203	208	http://dbpedia.org/resource/Netherlands	Location	Dutch	extra	Annotator		0		1	0	1	0	
+10	294	302	http://dbpedia.org/resource/New_York_City	Location	New York	extra	Annotator		0		0	1	0	0	
+10	294	302	http://dbpedia.org/resource/New_York	Location	New York	extra	Dataset	Missing Annotation	0		1	0	1	0	
+10	356	365	http://dbpedia.org/resource/New_York_Stock_Exchange	Location	big board	extra	Annotator		0		0	1	0	0	
+10	377	385	http://dbpedia.org/resource/New_York_City	Location	New York	wrong-link	Annotator		1	http://dbpedia.org/resource/New_York	0	1	0	0	
+10	79	87	http://dbpedia.org/resource/New_York_City	Location	New York	extra	Annotator		0		0	1	0	0	
+11	249	253	http://dbpedia.org/resource/United_Kingdom	Location	U.K.	extra	Dataset	Missing Annotation	0		1	1	1	0	
+11	265	277	http://dbpedia.org/resource/Germany	Location	West-Germany	wrong-link	Annotator		1	http://dbpedia.org/resource/West_Germany	1	0	1	0	
+11	4	17	http://dbpedia.org/resource/European_Economic_Community	Organisation	EC Commission	wrong-link	Annotator		1	http://dbpedia.org/resource/European_Commission	0	0	1	0	
+11	4	6	http://dbpedia.org/resource/European_Economic_Community	Location	EC	extra	Annotator		0		1	0	0	0	
+12	105	109	http://dbpedia.org/resource/Bell_Sports	Organisation	Bell	extra	Annotator		0		0	1	0	0	
+12	76	85	http://dbpedia.org/resource/Pemberton,_Greater_Manchester	Location	Pemberton	extra	Annotator		0		1	0	0	0	
+12	76	85	http://dbpedia.org/resource/Pemberton,_Western_Australia	Location	Pemberton	extra	Annotator		0		0	1	0	0	
+12	86	93	http://dbpedia.org/resource/Houston	Location	Houston	extra	Annotator		0		1	0	0	0	
+13	144	160	http://dbpedia.org/resource/Salomon_Brothers	Organisation	Salomon Brothers	extra	Annotator		0		1	1	0	0	
+13	152	160	http://dbpedia.org/resource/Brother_Industries	Organisation	Brothers	extra	Annotator		0		0	1	0	0	
+13	367	371	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+14	0	10	http://dbpedia.org/resource/Volkswagen	Organisation	Volkswagen	extra	Annotator		0		0	1	0	0	
+14	0	13	http://dbpedia.org/resource/Volkswagen	Organisation	Volkswagen AG	wrong-link	Annotator		1	http://dbpedia.org/resource/Volkswagen_Group	0	0	1	0	
+14	1022	1024	http://dbpedia.org/resource/Volkswagen	Organisation	VW	wrong-link	Annotator		1	http://dbpedia.org/resource/Volkswagen_Group	1	1	0	0	
+14	22	24	http://dbpedia.org/resource/Volkswagen	Organisation	VW	wrong-link	Annotator		1	http://dbpedia.org/resource/Volkswagen_Group	1	1	0	0	
+14	257	260	http://dbpedia.org/resource/Volkswagen	Organisation	VWs	extra	Dataset	Missing Annotation	0		0	1	0	0	
+14	358	360	http://dbpedia.org/resource/Volkswagen	Organisation	VW	wrong-link	Annotator		1	http://dbpedia.org/resource/Volkswagen_Group	1	1	0	0	
+14	599	601	http://dbpedia.org/resource/Volkswagen	Organisation	VW	wrong-link	Annotator		1	http://dbpedia.org/resource/Volkswagen_Group	1	1	0	0	
+15	0	16	http://dbpedia.org/resource/Toronto-Dominion_Bank	Organisation	Toronto Dominion	extra	Annotator		0		0	1	0	0	
+15	0	7	http://dbpedia.org/resource/Toronto	Location	Toronto	extra	Annotator		0		1	1	0	0	
+15	156	168	http://dbpedia.org/resource/Hambros_Bank	Organisation	Hambros Bank	extra	Annotator		0		1	1	0	0	
+15	23	29	http://dbpedia.org/resource/Nassau_County,_New_York	Location	Nassau	extra	Dataset	Missing Annotation	0		1	0	0	0	
+15	240	250	http://dbpedia.org/resource/Australia	Location	Australian	extra	Annotator		0		1	1	1	0	
+15	278	284	http://dbpedia.org/resource/Greater_London	Location	London	wrong-link	Annotator		1	http://dbpedia.org/resource/London	0	1	0	0	
+15	57	67	http://dbpedia.org/resource/Australia	Location	Australian	extra	Annotator		0		1	1	1	0	
+15	68	71	http://dbpedia.org/resource/Docklands_Light_Railway	Location	dlr	extra	Annotator		0		1	0	0	0	
+15	8	21	http://dbpedia.org/resource/The_Dominion_Bank	Organisation	Dominion Bank	extra	Annotator		0		0	1	0	0	
+16	0	16	http://dbpedia.org/resource/Toronto-Dominion_Bank	Organisation	Toronto Dominion	extra	Annotator		0		0	1	0	0	
+16	0	7	http://dbpedia.org/resource/Toronto	Location	Toronto	extra	Annotator		0		1	1	0	0	
+16	156	168	http://dbpedia.org/resource/Hambros_Bank	Organisation	Hambros Bank	extra	Annotator		0		1	1	0	0	
+16	23	29	http://dbpedia.org/resource/Nassau_County,_New_York	Location	Nassau	extra	Dataset	Missing Annotation	0		1	0	0	0	
+16	240	250	http://dbpedia.org/resource/Australia	Location	Australian	extra	Annotator		0		1	1	1	0	
+16	278	284	http://dbpedia.org/resource/Greater_London	Location	London	wrong-link	Annotator		1	http://dbpedia.org/resource/London	0	1	0	0	
+16	57	67	http://dbpedia.org/resource/Australia	Location	Australian	extra	Annotator		0		1	1	1	0	
+16	68	71	http://dbpedia.org/resource/Docklands_Light_Railway	Location	dlr	extra	Annotator		0		1	0	0	0	
+16	8	21	http://dbpedia.org/resource/The_Dominion_Bank	Organisation	Dominion Bank	extra	Annotator		0		0	1	0	0	
+17	216	219	http://dbpedia.org/resource/Don_River_(Russia)	Location	Don	extra	Annotator		0		1	0	0	0	
+17	245	250	http://dbpedia.org/resource/Portland,_Oregon	Location	Salem	wrong-link	Annotator		1	http://dbpedia.org/resource/Salem,_Oregon	0	0	1	0	
+17	245	250	http://dbpedia.org/resource/Salem,_Tamil_Nadu	Location	Salem	wrong-link	Annotator		1	http://dbpedia.org/resource/Salem,_Oregon	1	0	0	0	
+17	251	254	http://dbpedia.org/resource/Orange_Municipal_Airport	Location	Ore	wrong-link	Annotator		1	http://dbpedia.org/resource/Oregon	0	0	1	0	
+18	0	5	http://dbpedia.org/resource/Helen_of_Troy	Person	Helen	extra	Annotator		0		0	0	1	0	
+18	322	327	http://dbpedia.org/resource/Helen_Mirren	Person	Helen	extra	Annotator		0		0	0	1	0	
+18	331	335	http://dbpedia.org/resource/Troy	Location	Troy	extra	Annotator		0		1	0	0	0	
+18	331	335	http://dbpedia.org/resource/Troy,_New_York	Location	Troy	extra	Annotator		0		0	0	1	0	
+18	360	374	http://dbpedia.org/resource/Drexel_Burnham_Lambert	Organisation	Drexel Burnham	extra	Annotator		0		0	1	0	0	
+18	360	382	http://dbpedia.org/resource/Drexel_Burnham_Lambert	Organisation	Drexel Burnham	extra	Annotator		0		1	1	0	0	
+18	360	382	http://dbpedia.org/resource/Drexel_Burnham_Lambert	Organisation	Drexel Burnham Lambert	extra	Annotator		0		1	1	0	0	
+18	9	13	http://dbpedia.org/resource/Troy	Location	Troy	extra	Annotator		0		1	0	0	0	
+20	0	17	http://dbpedia.org/resource/Hanover_Insurance	Organisation	Hanover Insurance	extra	Annotator		0		0	1	0	0	
+20	0	7	http://dbpedia.org/resource/Hanover	Location	Hanover	extra	Annotator		0		0	1	0	0	
+20	105	112	http://dbpedia.org/resource/Hanover	Location	Hanover	wrong-link	Annotator		1	http://dbpedia.org/resource/Hanover_Insurance	1	1	1	0	
+20	347	354	http://dbpedia.org/resource/Hanover	Location	Hanover	wrong-link	Annotator		1	http://dbpedia.org/resource/Hanover_Insurance	1	1	1	0	
+2	0	8	http://dbpedia.org/resource/Canada	Location	Canadian	extra	Annotator		0		1	0	0	0	
+21	116	121	http://dbpedia.org/resource/Ozaki_Station	Location	Ozaki	extra	Annotator		0		0	0	1	0	
+2	16	21	http://dbpedia.org/resource/Leduc,_Alberta	Location	Leduc	extra	Annotator		0		1	0	0	0	
+21	93	105	http://dbpedia.org/resource/Osaka	Location	Osaka	extra	Annotator		0		0	1	0	0	
+2	196	204	http://dbpedia.org/resource/Canada	Location	Canadian	extra	Annotator		0		1	0	1	0	
+2	205	211	http://dbpedia.org/resource/Howard_Bashaw	Person	Bashaw	extra	Annotator		0		0	0	1	0	
+22	267	280	http://dbpedia.org/resource/Paramus,_New_Jersey	Location	Paramus	extra	Annotator		0		0	1	0	0	
+22	276	280	http://dbpedia.org/resource/New_Jersey	Location	N.J.	extra	Annotator		0		0	1	1	0	
+22	372	379	http://dbpedia.org/resource/United_States	Location	America	extra	Annotator		0		0	1	0	0	
+22	496	509	http://dbpedia.org/resource/National_Park_Service	Organisation	National Park	wrong-link	Annotator		1	http://dbpedia.org/resource/National_Park,_New_Jersey	0	0	1	0	
+22	511	514	http://dbpedia.org/resource/New_Jersey	Location	N.J	extra	Annotator		0		0	1	0	0	
+22	603	611	http://dbpedia.org/resource/Key_West,_Florida	Location	Key West	wrong-link	Dataset	Wrong Annotation	1	http://dbpedia.org/resource/Key_West	1	0	1	0	
+22	603	617	http://dbpedia.org/resource/Key_West,_Florida	Location	Key West, Fla.	extra	Dataset	Wrong Annotation	0		0	1	0	0	
+22	647	665	http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina	Location	Myrtle Beach	extra	Dataset	Wrong Annotation	0		1	1	0	0	
+22	647	665	http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina	Location	Myrtle Beach, S.C.	extra	Dataset	Wrong Annotation	0		1	1	0	0	
+22	723	727	http://dbpedia.org/resource/Kent	Location	Kent	wrong-link	Annotator		1	http://dbpedia.org/resource/Kentucky	1	0	0	0	
+22	723	727	http://dbpedia.org/resource/Kent,_Ohio	Location	Kent	wrong-link	Annotator		1	http://dbpedia.org/resource/Kentucky	0	0	1	0	
+22	760	771	http://dbpedia.org/resource/Wells_Fargo	Organisation	Wells Fargo	extra	Annotator		0		1	1	0	0	
+23	24	27	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+23	37	40	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+23	64	67	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+24	274	281	http://dbpedia.org/resource/Zambia	Location	Zambian	extra	Annotator		0		1	0	1	0	
+24	387	393	http://dbpedia.org/resource/Kenneth_Kaunda	Person	Kaunda	extra	Annotator		0		0	1	0	0	
+24	4	11	http://dbpedia.org/resource/Zambia	Location	Zambian	extra	Annotator		0		1	0	1	0	
+25	125	139	http://dbpedia.org/resource/Drexel_Burnham_Lambert	Organisation	Drexel Burnham	extra	Annotator		0		0	1	0	0	
+25	125	147	http://dbpedia.org/resource/Drexel_Burnham_Lambert	Organisation	Drexel Burnham	extra	Annotator		0		1	1	0	0	
+25	125	147	http://dbpedia.org/resource/Drexel_Burnham_Lambert	Organisation	Drexel Burnham Lambert	extra	Annotator		0		1	1	0	0	
+25	156	167	http://dbpedia.org/resource/Alex._Brown_%26_Sons	Organisation	Alex. Brown	extra	Annotator		0		0	0	1	0	
+25	156	167	http://dbpedia.org/resource/Alex._Brown_&_Sons	Organisation	Alex. Brown	extra	Annotator		0		0	1	0	0	
+26	0	6	http://dbpedia.org/resource/Asarco	Organisation	Asarco	extra	Dataset	Wrong Annotation	0		0	1	0	0	Looks like the gold is wrong.
+26	112	124	http://dbpedia.org/resource/First_Boston	Organisation	First Boston	extra	Annotator		0		0	1	0	0	
+26	112	130	http://dbpedia.org/resource/First_Boston	Organisation	First Boston Corp.	extra	Annotator		0		1	0	0	0	
+26	118	124	http://dbpedia.org/resource/Boston	Location	Boston	extra	Annotator		0		0	1	0	0	
+26	60	66	http://dbpedia.org/resource/Asarco	Organisation	Asarco	extra	Dataset	Wrong Annotation	0		0	1	1	0	
+27	0	8	http://dbpedia.org/resource/United_States	Location	American	extra	Annotator		0		1	0	0	0	
+27	118	139	http://dbpedia.org/resource/Carnival_Cruise_Lines	Organisation	Carnival Cruise Lines	extra	Annotator		0		1	0	0	0	
+27	166	169	http://dbpedia.org/resource/Bill_Cosby	Person	Cos	extra	Annotator		0		0	1	0	0	
+27	166	169	http://dbpedia.org/resource/Kos	Location	Cos	extra	Annotator		0		1	0	0	0	
+27	219	225	http://dbpedia.org/resource/MGM_Grand_Las_Vegas	Location	Marina	extra	Annotator		0		0	0	1	0	
+27	234	242	http://dbpedia.org/resource/Atlantic_Ocean	Location	Atlantic	extra	Annotator		0		0	1	0	0	
+27	254	262	http://dbpedia.org/resource/United_States	Location	American	extra	Annotator		0		1	0	0	0	
+27	263	270	http://dbpedia.org/resource/Midland_Railway	Organisation	Midland	extra	Annotator		0		0	0	1	0	
+27	307	315	http://dbpedia.org/resource/Atlantic_Ocean	Location	Atlantic	extra	Annotator		0		0	1	0	0	
+27	333	341	http://dbpedia.org/resource/Times_Square	Location	Broadway	extra	Annotator		0		0	0	1	0	
+27	345	356	http://dbpedia.org/resource/Brabantsche_Compagnie	Organisation	new company	extra	Annotator		0		0	1	0	0	
+27	366	374	http://dbpedia.org/resource/United_States	Location	American	extra	Annotator		0		1	0	0	0	
+27	90	101	http://dbpedia.org/resource/Brabantsche_Compagnie	Organisation	new company	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+29	233	237	http://dbpedia.org/resource/Sun_Microsystems	Organisation	Suns	extra	Annotator		0		0	0	1	0	
+29	277	280	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+30	1160	1168	http://dbpedia.org/resource/Benjamin_Franklin	Person	Franklin	wrong-link	Annotator		1	http://dbpedia.org/resource/Franklin,_Tennessee	1	1	0	0	
+30	1160	1168	http://dbpedia.org/resource/Franklin_D._Roosevelt	Person	Franklin	wrong-link	Annotator		1	http://dbpedia.org/resource/Franklin,_Tennessee	0	0	1	0	
+30	1170	1175	http://dbpedia.org/resource/Tennessee	Location	Tenn.	extra	Dataset	Wrong Annotation	0		0	1	1	0	
+30	1509	1525	http://dbpedia.org/resource/Prudential_Securities	Organisation	Prudential-Bache	extra	Annotator		0		0	1	0	0	
+30	1537	1543	http://dbpedia.org/resource/Stuart,_Virginia	Location	Stuart	extra	Annotator		0		0	1	0	0	
+30	171	182	http://dbpedia.org/resource/New_England	Location	New England	extra	Annotator		0		0	1	0	0	
+30	175	182	http://dbpedia.org/resource/England	Location	England	extra	Annotator		0		0	1	0	0	
+30	1856	1872	http://dbpedia.org/resource/Steven_Rosenberg	Person	Steven Rosenberg	extra	Annotator		0		0	1	1	0	
+30	219	230	http://dbpedia.org/resource/New_York_Stock_Exchange	Location	Wall Street	wrong-link	Annotator		1	http://dbpedia.org/resource/Wall_Street	0	0	1	0	
+30	2418	2431	http://dbpedia.org/resource/Philadelphia	Location	Philadelphias	extra	Annotator		0		0	1	0	0	
+30	2432	2437	http://dbpedia.org/resource/Robert_Chase	Person	Chase	extra	Annotator		0		1	1	0	0	
+30	2498	2502	http://dbpedia.org/resource/Europe	Location	West	extra	Annotator		0		0	0	1	0	
+30	318	323	http://dbpedia.org/resource/United_States	Location	U. S.	extra	Dataset	Missing Annotation	0		0	1	0	0	
+30	381	387	http://dbpedia.org/resource/California	Location	Calif.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+30	393	400	http://dbpedia.org/resource/Amgen	Organisation	Immunex	extra	KB	Redirects or Multiple URIs	0		1	1	0	0	
+30	421	434	http://dbpedia.org/resource/Seattle	Location	Seattle	extra	Annotator		0		0	1	0	0	
+30	421	435	http://dbpedia.org/resource/Seattle	Location	Seattle, Wash.	extra	Annotator		0		1	0	0	0	
+30	430	434	http://dbpedia.org/resource/Washington_(state)	Location	Wash	extra	Annotator		0		0	0	1	0	This also hides a Dataset error.
+31	1025	1032	http://dbpedia.org/resource/Frederic_M._Scherer	Person	Scherer	extra	Annotator		0		0	0	1	0	
+31	1106	1113	http://dbpedia.org/resource/Frederic_M._Scherer	Person	Scherer	extra	Annotator		0		0	0	1	0	
+31	1166	1173	http://dbpedia.org/resource/Georgia_(U.S._state)	Location	Georgia	wrong-link	Annotator		1	http://dbpedia.org/resource/Georgia_Power	1	0	1	0	
+31	1246	1252	http://dbpedia.org/resource/Vogtle_Electric_Generating_Plant	Location	Vogtle	extra	Annotator		0		0	1	0	0	
+31	134	146	http://dbpedia.org/resource/Vogtle_Electric_Generating_Plant	Location	Plant Vogtle	extra	Annotator		0		1	1	0	0	
+31	140	146	http://dbpedia.org/resource/Vogtle_Electric_Generating_Plant	Location	Vogtle	extra	Annotator		0		0	1	0	0	
+31	1574	1581	http://dbpedia.org/resource/Frederic_M._Scherer	Person	Scherer	extra	Annotator		0		0	0	1	0	
+31	2105	2116	http://dbpedia.org/resource/Mile_Island	Location	Mile Island	extra	Annotator		0		0	1	0	0	also hides a Dataset error
+31	233	246	http://dbpedia.org/resource/Georgia_Power	Organisation	Georgia Power	extra	Annotator		0		1	1	0	0	
+31	414	421	http://dbpedia.org/resource/Georgia_(U.S._state)	Location	Georgia	wrong-link	Annotator		1	http://dbpedia.org/resource/Georgia_Power	1	0	1	0	
+31	509	517	http://dbpedia.org/resource/Confederate_States_of_America	Organisation	Southern	extra	Annotator		0		0	0	1	0	
+31	992	999	http://dbpedia.org/resource/Georgia_(U.S._state)	Location	Georgia	extra	Annotator		0		0	0	1	0	
+32	166	178	http://dbpedia.org/resource/Paine_Webber	Organisation	Paine Webber	extra	Annotator		0		0	1	0	0	
+32	172	192	http://dbpedia.org/resource/Webber_International_University	Organisation	Webber International	extra	Annotator		0		1	0	0	0	
+3	234	240	http://dbpedia.org/resource/Greater_London	Location	London	wrong-link	Annotator		1	http://dbpedia.org/resource/London	0	1	0	0	
+32	64	69	http://dbpedia.org/resource/Atari	Organisation	Atari	extra	Annotator		0		1	0	0	0	
+32	64	74	http://dbpedia.org/resource/Atari_Corporation	Organisation	Atari Corp	wrong-link	Annotator		1	http://dbpedia.org/resource/Atari	0	1	1	0	
+33	0	9	http://dbpedia.org/resource/Argentina	Location	Argentine	extra	Annotator		0		1	0	1	0	
+33	1228	1233	http://dbpedia.org/resource/Pampas	Location	Pampa	extra	Annotator		0		0	1	0	0	this is a dbr:wikiPageDisambiguates
+33	1238	1250	http://dbpedia.org/resource/Buenos_Aires_Province	Location	Buenos Aires	wrong-link	Annotator		1	http://dbpedia.org/resource/Buenos_Aires	1	0	0	0	
+33	1710	1717	http://dbpedia.org/resource/C%C3%B3rdoba,_Argentina	Location	Cordoba	wrong-link	Annotator		1	http://dbpedia.org/resource/C%C3%B3rdoba_Province,_Argentina	0	0	1	0	
+33	1752	1757	http://dbpedia.org/resource/Pampas	Location	Pampa	extra	Annotator		0		0	1	0	0	
+33	1771	1783	http://dbpedia.org/resource/Buenos_Aires	Location	Buenos Aires	wrong-link	Annotator		1	http://dbpedia.org/resource/Buenos_Aires_Province	0	0	1	0	
+33	2272	2279	http://dbpedia.org/resource/C%C3%B3rdoba,_Argentina	Location	Cordoba	wrong-link	Annotator		1	http://dbpedia.org/resource/Córdoba_Province,_Argentina	0	0	1	0	
+33	2326	2331	http://dbpedia.org/resource/Pampas	Location	Pampa	extra	Annotator		0		0	1	0	0	
+33	2336	2348	http://dbpedia.org/resource/Buenos_Aires	Location	Buenos Aires	wrong-link	Annotator		1	http://dbpedia.org/resource/Buenos_Aires_Province	0	0	1	0	
+33	649	661	http://dbpedia.org/resource/Buenos_Aires	Location	Buenos Aires	extra	Annotator		0		0	0	1	0	
+33	718	722	http://dbpedia.org/resource/Marcelo_Ríos	Person	Rios	extra	Annotator		0		0	0	1	0	
+33	718	722	http://dbpedia.org/resource/Rio_de_Janeiro	Location	Rios	extra	Annotator		0		0	1	0	0	
+33	780	787	http://dbpedia.org/resource/Formosa,_Argentina	Location	Formosa	wrong-link	Annotator		1	http://dbpedia.org/resource/Formosa_Province	0	1	0	0	
+33	780	787	http://dbpedia.org/resource/Taiwan	Location	Formosa	wrong-link	Annotator		1	http://dbpedia.org/resource/Formosa_Province	0	0	1	0	
+33	836	841	http://dbpedia.org/resource/Pampas	Location	Pampa	extra	Annotator		0		0	1	0	0	
+34	0	5	http://dbpedia.org/resource/Netherlands	Location	Dutch	extra	Annotator		0		1	0	0	0	
+3	452	465	http://dbpedia.org/resource/Northern_England	Location	North Country	extra	Annotator		0		1	0	0	0	
+35	0	6	http://dbpedia.org/resource/Moody's_Investors_Service	Organisation	Moodys	extra	Annotator		0		1	1	0	0	
+35	129	133	http://dbpedia.org/resource/Avco	Organisation	Avco	extra	Annotator		0		1	1	0	0	
+35	168	172	http://dbpedia.org/resource/Avco	Organisation	Avco	extra	Annotator		0		1	1	0	0	
+35	179	183	http://dbpedia.org/resource/Avco	Organisation	Avco	extra	Annotator		0		1	1	0	0	
+35	315	328	http://dbpedia.org/resource/Core_business	Organisation	core business	extra	KB	Wrong Type	0		0	1	0	0	
+36	1058	1072	http://dbpedia.org/resource/G8	Organisation	Group of Seven	extra	Annotator		0		0	0	1	0	this also hides a redirect issue
+36	155	161	http://dbpedia.org/resource/Stefan_Reuter	Person	Reuter	extra	Annotator		0		0	0	1	0	
+36	186	197	http://dbpedia.org/resource/West_Germany	Location	West German	extra	Annotator		0		1	1	1	0	
+36	191	214	http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)	Organisation	German Finance Minister	extra	Annotator		0		1	0	0	0	
+36	260	275	http://dbpedia.org/resource/Karl_Otto_Pöhl	Location	Karl Otto Poehl	wrong-link	Annotator		1	http://dbpedia.org/resource/Karl_Otto_Pöhl	0	0	1	0	same URLs - probable UTF-8 error
+36	265	269	http://dbpedia.org/resource/Otto,_King_of_Greece	Person	Otto	extra	Annotator		0		1	0	0	0	
+36	277	283	http://dbpedia.org/resource/France	Location	French	extra	Annotator		0		1	0	1	0	
+36	309	317	http://dbpedia.org/resource/Édouard_Balladur	Person	Balladur	extra	Annotator		0		0	1	0	0	
+36	341	361	http://dbpedia.org/resource/Jacques_de_Larosière	Person	Jacques de Larosiere	wrong-link	Annotator		1	http://dbpedia.org/resource/Jacques_de_Larosière	0	0	1	0	same URLs - probable UTF-8 error
+36	387	395	http://dbpedia.org/resource/Japan	Location	Japanese	extra	Annotator		0		1	0	1	0	
+36	433	439	http://dbpedia.org/resource/Japan	Location	Japans	extra	Dataset	Missing Annotation	0		0	1	0	0	
+36	462	469	http://dbpedia.org/resource/Girugamesh	Organisation	Satoshi	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+36	470	476	http://dbpedia.org/resource/Sumita,_Iwate	Location	Sumita	extra	Annotator		0		0	1	0	0	
+36	481	488	http://dbpedia.org/resource/United_Kingdom	Location	British	extra	Annotator		0		1	0	0	0	
+36	549	554	http://dbpedia.org/resource/Leigh,_Greater_Manchester	Location	Leigh	extra	Annotator		0		1	0	0	0	
+36	555	564	http://dbpedia.org/resource/Sylvester_Pemberton	Person	Pemberton	extra	Annotator		0		1	0	0	0	
+36	59	63	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Annotator		0		0	1	0	0	
+36	597	604	http://dbpedia.org/resource/Italy	Location	Italian	extra	Annotator		0		1	0	1	0	
+36	608	616	http://dbpedia.org/resource/Canada	Location	Canadian	extra	Annotator		0		1	0	1	0	
+36	64	72	http://dbpedia.org/resource/HM_Treasury	Organisation	Treasury	extra	Annotator		0		1	0	0	0	
+36	684	698	http://dbpedia.org/resource/G8	Organisation	Group of Seven	wrong-link	Annotator		1	http://dbpedia.org/resource/G7	0	0	1	0	
+36	843	850	http://dbpedia.org/resource/Italy	Location	Italian	extra	Annotator		0		1	0	1	0	
+36	864	871	http://dbpedia.org/resource/Italy	Location	Italian	extra	Annotator		0		1	0	1	0	
+36	905	910	http://dbpedia.org/resource/Giovanni_Goria	Person	Goria	extra	Annotator		0		0	1	0	0	
+36	924	945	http://dbpedia.org/resource/James_Baker	Person	Secretary James Baker	extra	Annotator		0		0	1	0	0	
+38	0	4	http://dbpedia.org/resource/Charles_Herbert_Best	Person	Best	extra	Annotator		0		0	1	0	0	
+38	0	8	http://dbpedia.org/resource/Best_Buy	Organisation	Best Buy	extra	Annotator		0		1	1	0	0	
+39	91	94	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+40	122	155	http://dbpedia.org/resource/Welsh,_Carson,_Anderson_&_Stowe	Organisation	Welsh, Carson, Anderson and Stowe	wrong-link	Annotator		1	http://dbpedia.org/resource/Welsh,_Carson,_Anderson_%26_Stowe	0	1	0	0	
+40	150	155	http://dbpedia.org/resource/Harriet_Beecher_Stowe	Person	Stowe	extra	Annotator		0		0	1	0	0	
+40	150	155	http://dbpedia.org/resource/Madeleine_Stowe	Person	Stowe	extra	Annotator		0		0	0	1	0	
+41	0	5	http://dbpedia.org/resource/Avnet	Organisation	Avnet	extra	Annotator		0		1	1	0	0	
+4	134	142	http://dbpedia.org/resource/Ulrike_Ottinger	Person	Ottinger	extra	Annotator		0		0	0	1	0	
+41	433	444	http://dbpedia.org/resource/Dillon,_Read_&_Co.	Organisation	Dillon Read	extra	Annotator		0		0	1	0	0	
+4	180	186	http://dbpedia.org/resource/Nordin_Amrabat	Person	Nordin	extra	Annotator		0		0	0	1	0	
+42	0	16	http://dbpedia.org/resource/Continental_Bank	Organisation	Continental Bank	extra	Annotator		0		0	1	0	0	
+42	171	179	http://dbpedia.org/resource/Canada	Location	Canadian	extra	Annotator		0		1	0	1	0	
+42	197	208	http://dbpedia.org/resource/United_States	Location	Continental	wrong-link	Annotator		1	http://dbpedia.org/resource/Continental_Bank_of_Canada	0	0	1	0	
+42	20	26	http://dbpedia.org/resource/Canada	Location	Canada	extra	Dataset	Missing Annotation	0		1	1	0	0	
+42	219	230	http://dbpedia.org/resource/Lloyds_Banking_Group	Organisation	Lloyds Bank	extra	Annotator		0		1	0	0	0	
+42	219	230	http://dbpedia.org/resource/Lloyds_Bank	Organisation	Lloyds Bank	extra	Annotator		0		0	1	0	0	
+42	219	235	http://dbpedia.org/resource/Lloyds_Bank	Organisation	Lloyds Bank	extra	Annotator		0		0	1	0	0	
+42	236	247	http://dbpedia.org/resource/Lloyds_Banking_Group	Organisation	Lloyds Bank	extra	Annotator		0		1	0	0	0	
+42	236	247	http://dbpedia.org/resource/Lloyds_Bank	Organisation	Lloyds Bank	extra	Annotator		0		0	1	0	0	
+42	248	254	http://dbpedia.org/resource/Canada	Location	Canada	extra	Annotator		0		1	1	0	0	
+42	372	379	http://dbpedia.org/resource/Minor_League_Baseball	Organisation	class A	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+4	237	259	http://dbpedia.org/resource/Digital_Telecommunications_Philippines	Organisation	Digital Communications	extra	Annotator		0		0	0	1	0	
+42	521	532	http://dbpedia.org/resource/United_States	Location	Continental	wrong-link	Annotator		1	http://dbpedia.org/resource/Continental_Bank_of_Canada	0	0	1	0	
+42	572	580	http://dbpedia.org/resource/Canada	Location	Canadian	extra	Annotator		0		0	0	1	0	
+42	943	954	http://dbpedia.org/resource/United_States	Location	Continental	wrong-link	Annotator		1	http://dbpedia.org/resource/Continental_Bank_of_Canada	0	0	1	0	
+43	112	115	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+43	20	23	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+43	204	223	http://dbpedia.org/resource/Consolidated_Mine	Location	Consolidated Mining	extra	Annotator		0		0	1	0	0	
+43	272	282	http://dbpedia.org/resource/Philippines	Location	Philippine	extra	Dataset	Missing Annotation	0		0	1	1	0	
+43	35	38	http://dbpedia.org/resource/Cognizant	Organisation	cts	extra	Annotator		0		1	0	0	0	
+44	0	10	http://dbpedia.org/resource/Ford_Motor_Company	Organisation	Ford	extra	Annotator		0		0	1	0	0	
+44	0	4	http://dbpedia.org/resource/Ford_Motor_Company	Organisation	Ford	extra	Annotator		0		0	1	0	0	
+44	123	133	http://dbpedia.org/resource/Bruce_Willis	Person	expiration	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+44	284	292	http://dbpedia.org/resource/University_of_Michigan_Solar_Car_Team	Organisation	momentum	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+44	591	595	http://dbpedia.org/resource/Ford_Motor_Company	Organisation	Ford	extra	Annotator		0		0	1	0	0	
+45	251	283	http://dbpedia.org/resource/Committee_on_World_Food_Security	Organisation	committee on world food security	extra	Annotator		0		0	1	0	0	
+45	305	316	http://dbpedia.org/resource/Sub-Saharan_Africa	Location	sub-Saharan	extra	Annotator		0		0	1	0	0	
+45	317	323	http://dbpedia.org/resource/Africa	Location	Africa	extra	Annotator		0		0	1	0	0	
+45	391	399	http://dbpedia.org/resource/China	Location	Far East	wrong-link	Annotator		1	http://dbpedia.org/resource/Far_East	1	0	1	0	
+46	232	240	http://dbpedia.org/resource/Shearson	Organisation	Shearson	extra	Annotator		0		0	1	0	0	
+46	232	247	http://dbpedia.org/resource/Shearson	Organisation	Shearson	extra	Annotator		0		0	1	0	0	
+46	232	256	http://dbpedia.org/resource/Shearson	Organisation	Shearson	extra	Annotator		0		1	1	0	0	
+46	232	256	http://dbpedia.org/resource/Shearson	Organisation	Shearson Lehman Brothers	extra	Annotator		0		1	1	0	0	
+46	241	256	http://dbpedia.org/resource/Lehman_Brothers	Organisation	Lehman Brothers	extra	Annotator		0		0	1	0	0	
+46	241	260	http://dbpedia.org/resource/Lehman_Brothers	Organisation	Lehman Brothers	extra	Annotator		0		0	1	0	0	
+46	61	95	http://dbpedia.org/resource/Securities_Commission_(Brazil)	Organisation	Securities and Exchange Commission	wrong-link	Annotator		1	http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission	0	0	1	0	
+47	100	113	http://dbpedia.org/resource/Bristol-Myers_Squibb	Organisation	Bristol-Myers	extra	Annotator		0		1	1	0	0	
+48	0	8	http://dbpedia.org/resource/Fidelity_Trust_Company	Organisation	Fidelcor	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+48	177	194	http://dbpedia.org/resource/Industrial_Valley	Location	Industrial Valley	extra	Annotator		0		0	0	1	0	
+49	1096	1100	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	123	127	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	1735	1739	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	1924	1928	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	2040	2045	http://dbpedia.org/resource/Total_S.A.	Organisation	total	extra	Annotator		0		0	1	0	0	
+49	2343	2351	http://dbpedia.org/resource/United_States	Location	American	extra	Annotator		0		0	0	1	0	
+49	2419	2423	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	2590	2604	http://dbpedia.org/resource/Middle_East	Location	Middle Eastern	extra	Annotator		0		0	1	0	0	
+49	2668	2672	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	2984	2997	http://dbpedia.org/resource/Union_Carbide	Organisation	Union Carbide	extra	Annotator		0		1	1	0	0	
+49	3003	3005	http://dbpedia.org/resource/United_Kingdom	Location	UK	extra	Annotator		0		1	1	0	0	longest string was not annotated here
+49	3047	3058	http://dbpedia.org/resource/BorgWarner	Organisation	Borg Warner	extra	Annotator		0		1	1	0	0	
+49	3064	3067	http://dbpedia.org/resource/Bor,_Serbia	Location	BOR	extra	Annotator		0		1	0	0	0	
+49	3148	3158	http://dbpedia.org/resource/William_Russell_Grace	Person	W.R. Grace	extra	Annotator		0		0	1	1	0	
+49	3160	3163	http://dbpedia.org/resource/Granada_CF	Organisation	GRA	extra	Annotator		0		0	0	1	0	
+49	3383	3390	http://dbpedia.org/resource/Back-On	Organisation	back on	extra	Annotator		0		0	1	0	0	
+49	35	39	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	3597	3605	http://dbpedia.org/resource/Monsanto	Organisation	Monsanto	extra	Annotator		0		1	1	0	0	
+49	3609	3612	http://dbpedia.org/resource/Metropolitan_Transport_Corporation_(Chennai)	Organisation	MTC	extra	Annotator		0		0	1	0	0	
+49	406	410	http://dbpedia.org/resource/Cain_and_Abel	Person	Cain	extra	Annotator		0		1	0	0	0	
+49	4150	4154	http://dbpedia.org/resource/Cain_and_Abel	Person	Cain	extra	Annotator		0		1	0	0	0	
+49	4327	4331	http://dbpedia.org/resource/Cain_and_Abel	Person	Cain	extra	Annotator		0		1	0	0	0	
+49	4374	4381	http://dbpedia.org/resource/DuPont	Organisation	Duponts	extra	Annotator		0		1	1	0	0	
+49	4382	4388	http://dbpedia.org/resource/Conoco	Organisation	Conoco	extra	Annotator		0		0	1	0	0	
+49	4382	4388	http://dbpedia.org/resource/ConocoPhillips	Organisation	Conoco	extra	Annotator		0		1	0	0	0	
+49	4382	4393	http://dbpedia.org/resource/Conoco	Organisation	Conoco	extra	Annotator		0		0	1	0	0	
+49	4498	4503	http://dbpedia.org/resource/Texas	Location	Texas	extra	Annotator		0		1	1	0	0	
+49	4498	4514	http://dbpedia.org/resource/Texas	Location	Texas Gulf Coast	wrong-link	Annotator		1	http://dbpedia.org/resource/Gulf_Coast_of_the_United_States	0	0	1	0	
+49	4713	4717	http://dbpedia.org/resource/Cain_and_Abel	Person	Cain	extra	Annotator		0		1	0	0	0	
+49	4713	4717	http://dbpedia.org/resource/Matt_Cain	Person	Cain	extra	Annotator		0		0	0	1	0	
+49	4820	4831	http://dbpedia.org/resource/Dean_Witter_Reynolds	Organisation	Dean Witter	extra	Annotator		0		0	1	0	0	
+49	5099	5103	http://dbpedia.org/resource/United_States	Location	U.S.	extra	Dataset	Missing Annotation	0		0	1	1	0	
+49	522	533	http://dbpedia.org/resource/Ashland_Inc.	Organisation	Ashland Oil	extra	Annotator		0		1	1	0	0	
+49	539	542	http://dbpedia.org/resource/American_Society_of_Hematology	Organisation	ASH	wrong-link	Annotator		1	http://dbpedia.org/resource/Ashland_Inc.	1	0	0	0	
+49	716	720	http://dbpedia.org/resource/Paul_the_Apostle	Person	Paul	extra	Annotator		0		0	1	0	0	
+49	749	761	http://dbpedia.org/resource/Dow_Chemical_Company	Organisation	Dow Chemical	extra	Annotator		0		1	1	0	0	
+49	834	839	http://dbpedia.org/resource/Earth	Location	world	extra	Annotator		0		0	1	0	0	
+50	0	19	http://dbpedia.org/resource/International_Paper	Organisation	Federal Paper Board	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+50	174	182	http://dbpedia.org/resource/Japan	Location	Japanese	extra	Annotator		0		1	0	1	0	
+5	0	8	http://dbpedia.org/resource/Teradyne	Organisation	Teradyne	extra	Annotator		0		1	0	0	0	
+5	18	35	http://dbpedia.org/resource/Digital_Equipment_Corporation	Organisation	Digital Equipment	extra	Annotator		0		1	1	0	0	
+6	72	84	http://dbpedia.org/resource/Philadelphia_(band)	Organisation	Philadelphia	wrong-link	Annotator		1	http://dbpedia.org/resource/Philadelphia	0	1	0	0	
+7	138	146	http://dbpedia.org/resource/Canada	Location	Canadian	extra	Annotator		0		1	0	1	0	
+7	229	236	http://dbpedia.org/resource/Toronto	Location	Toronto	extra	Annotator		0		0	1	0	0	
+7	343	350	http://dbpedia.org/resource/Toronto	Location	Toronto	extra	Annotator		0		1	1	0	0	
+7	343	359	http://dbpedia.org/resource/Toronto-Dominion_Bank	Organisation	Toronto Dominion	extra	Annotator		0		0	1	0	0	
+7	351	364	http://dbpedia.org/resource/The_Dominion_Bank	Organisation	Dominion Bank	extra	Annotator		0		0	1	0	0	
+7	38	54	http://dbpedia.org/resource/Prudential_Securities	Organisation	Prudential Bache	extra	Annotator		0		0	1	0	0	
+7	38	65	http://dbpedia.org/resource/Prudential_Securities	Organisation	Prudential Bache	extra	Annotator		0		1	1	0	0	
+7	38	65	http://dbpedia.org/resource/Prudential_Securities	Organisation	Prudential Bache Securities	extra	Annotator		0		1	1	0	0	
+7	98	105	http://dbpedia.org/resource/Toronto	Location	Toronto	extra	Annotator		0		0	1	0	0	
+8	52	57	http://dbpedia.org/resource/Netherlands	Location	Dutch	extra	Annotator		0		1	0	1	0	
+9	133	145	http://dbpedia.org/resource/Seamiew_Records	Organisation	end of April	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	
+9	147	164	http://dbpedia.org/resource/Chris_Clark_(historian)	Person	Christopher Clark	extra	Annotator		0		0	0	1	0	
+9	187	201	http://dbpedia.org/resource/Samuel_Montagu,_1st_Baron_Swaythling	Person	Samuel Montagu	extra	Annotator		0		0	0	1	0	
+9	206	214	http://dbpedia.org/resource/Sons_Ltd	Organisation	Sons Ltd	extra	Annotator		0		0	1	1	0	
+9	340	344	http://dbpedia.org/resource/United_Kingdom	Location	U.K.	extra	Dataset	Missing Annotation	0		1	1	0	0	
+9	46	61	http://dbpedia.org/resource/Rolls-Royce_Group_PLC	Organisation	Rolls Royce Plc	extra	KB	Redirects or Multiple URIs	0		0	0	1	0	
+9	46	61	http://dbpedia.org/resource/Rolls-Royce_Holdings	Organisation	Rolls Royce Plc	extra	KB	Redirects or Multiple URIs	0		0	1	0	0	

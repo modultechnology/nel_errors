@@ -1,0 +1,60 @@
+doc	start	end	link	type	surfaceForm	tac	errorType	errorCause	inGold	goldLink	Spotlight	Babelnet	Aida	Recognyze	Comments
+BUS03	0	5	http://dbpedia.org/resource/Cairo	Location	Cairo	wrong-link	Annotator		1	http://dbpedia.org/resource/Cairo_(operating_system)	0	0	1	0	
+BUS04	25	30	http://dbpedia.org/resource/Larry_Bird	Person	Larry	wrong-link	Annotator		1	http://dbpedia.org/resource/Larry_Page	0	0	1	0	
+BUS04	7	11	http://dbpedia.org/resource/Bill_Clinton	Person	Bill	wrong-link	Annotator		1	http://dbpedia.org/resource/Bill_Gates	0	0	1	0	
+BUS05	9	13	http://dbpedia.org/resource/Theo_van_Gogh_(art_dealer)	Person	Theo	wrong-link	Annotator		1	http://dbpedia.org/resource/Theo_Albrecht	1	0	0	0	
+CEL01	0	5	http://dbpedia.org/resource/David_Bowie	Person	David	wrong-link	Annotator		1	http://dbpedia.org/resource/David_Beckham	0	0	1	0	
+CEL01	10	18	http://dbpedia.org/resource/Australia	Location	Victoria	wrong-link	Annotator		1	http://dbpedia.org/resource/Victoria_Beckham	0	0	1	0	
+CEL01	10	18	http://dbpedia.org/resource/Queen_Victoria	Person	Victoria	wrong-link	Annotator		1	http://dbpedia.org/resource/Victoria_Beckham	0	1	0	0	
+CEL01	10	18	http://dbpedia.org/resource/Victoria_(Australia)	Location	Victoria	wrong-link	Annotator		1	http://dbpedia.org/resource/Victoria_Beckham	1	0	0	0	
+CEL01	40	48	http://dbpedia.org/resource/Brooklyn	Location	Brooklyn	extra	Annotator		0		1	0	1	0	
+CEL01	50	55	http://dbpedia.org/resource/So_Solid_Crew	Organisation	Romeo	extra	Annotator		0		0	0	1	0	
+CEL01	57	61	http://dbpedia.org/resource/Taio_Cruz	Person	Cruz	extra	Annotator		0		0	0	1	0	
+CEL02	10	18	http://dbpedia.org/resource/Australia	Location	Victoria	wrong-link	Annotator		1	http://dbpedia.org/resource/Victoria_Beckham	0	0	1	0	
+CEL02	10	18	http://dbpedia.org/resource/Queen_Victoria	Person	Victoria	wrong-link	Annotator		1	http://dbpedia.org/resource/Victoria_Beckham	0	1	0	0	
+CEL02	10	18	http://dbpedia.org/resource/Victoria_(Australia)	Location	Victoria	wrong-link	Annotator		1	http://dbpedia.org/resource/Victoria_Beckham	1	0	0	0	
+CEL04	15	17	http://dbpedia.org/resource/United_States	Location	US	extra	Annotator		0		0	1	0	0	
+CEL05	0	7	http://dbpedia.org/resource/Mary_(mother_of_Jesus)	Person	Madonna	wrong-link	Annotator		1	http://dbpedia.org/resource/Madonna_(entertainer)	0	1	0	0	
+CEL05	37	43	http://dbpedia.org/resource/Carlos_Solis	Person	Carlos	wrong-link	Annotator		1	http://dbpedia.org/resource/Carlos_Leon	1	0	0	0	
+CEL08	0	5	http://dbpedia.org/resource/Heidi_Harris	Person	Heidi	wrong-link	Annotator		1	http://dbpedia.org/resource/Heidi_Klum	0	0	1	0	
+CEL09	0	5	http://dbpedia.org/resource/Paris	Location	Paris	wrong-link	Annotator		1	http://dbpedia.org/resource/Paris_Hilton	1	1	1	0	
+CEL09	65	73	http://dbpedia.org/resource/YouTube	Organisation	Internet	extra	Annotator		0		0	0	1	0	
+CEL10	0	6	http://dbpedia.org/resource/Justin_Timberlake	Person	Justin	wrong-link	Annotator		1	http://dbpedia.org/resource/Justin_Bieber	0	0	1	0	
+CEL10	21	25	http://dbpedia.org/resource/Kate_Hudson	Person	Kate	wrong-link	Annotator		1	http://dbpedia.org/resource/Kate_Perry	0	0	1	0	
+CEL10	8	15	http://dbpedia.org/resource/Gwen_Stefani	Person	Stefani	wrong-link	Annotator		1	http://dbpedia.org/resource/Lady_gaga	0	0	1	0	
+MUS02	47	51	http://dbpedia.org/resource/Joey_de_Leon	Person	Joey	extra	Annotator		0		1	0	0	0	
+MUS03	82	86	http://dbpedia.org/resource/Beck	Person	Beck	wrong-link	Annotator		1	http://dbpedia.org/resource/Jeff_Beck	1	0	0	0	
+MUS05	108	115	http://dbpedia.org/resource/Santana_(band)	Organisation	Santana	wrong-link	Annotator		1	http://dbpedia.org/resource/Carlos_Santana	1	0	0	0	
+MUS05	120	128	http://dbpedia.org/resource/Columbia_Graphophone_Company	Organisation	Columbia	wrong-link	Annotator		1	http://dbpedia.org/resource/Columbia_Records	0	1	0	0	
+MUS05	144	148	http://dbpedia.org/resource/Columbia_Records	Organisation	Sony	wrong-link	Annotator		1	http://dbpedia.org/resource/Sony_Music_Entertainment	0	0	1	0	
+MUS05	144	148	http://dbpedia.org/resource/Sony	Organisation	Sony	wrong-link	Annotator		1	http://dbpedia.org/resource/Sony_Music_Entertainment	1	1	0	0	
+MUS06	45	49	http://dbpedia.org/resource/Cash,_Arkansas	Location	Cash	wrong-link	Annotator		1	http://dbpedia.org/resource/Johnny_Cash	0	1	0	0	
+MUS06	85	104	http://dbpedia.org/resource/American_Recordings_(record_label)	Organisation	American Recordings	extra	Annotator		0		1	0	0	0	
+MUS07	38	43	http://dbpedia.org/resource/Nas	Person	Jones	wrong-link	Annotator		1	http://dbpedia.org/resource/John_Paul_Jones_(musician)	0	0	1	0	
+MUS07	69	77	http://dbpedia.org/resource/Caligula	Person	Caligula	extra	Annotator		0		1	0	1	0	
+MUS09	100	105	http://dbpedia.org/resource/Miles_Davis	Person	Davis	wrong-link	KB	Redirects or Multiple URIs	1	http://dbpedia.org/resource/Miles_davis	0	0	1	0	
+MUS09	4	8	http://dbpedia.org/resource/Isle,_Minnesota	Location	Isle	extra	Annotator		0		0	1	0	0	
+POL01	83	88	http://dbpedia.org/resource/China	Location	China	wrong-link	KB	Redirects or Multiple URIs	1	http://dbpedia.org/resource/People's_Republic_of_China	1	0	1	0	
+POL02	36	42	http://dbpedia.org/resource/Greece_(CDP),_New_York	Location	Greece	wrong-link	Annotator		1	http://dbpedia.org/resource/Greece	0	1	0	0	
+POL04	68	76	http://dbpedia.org/resource/Hanns_Martin_Schleyer	Person	Schleyer	wrong-link	Annotator		1	http://dbpedia.org/resource/Hanns-Martin_Schleyer	0	0	1	0	though this is a correct link
+POL07	18	29	http://dbpedia.org/resource/Nohfelden	Location	Neunkirchen	wrong-link	Annotator		1	http://dbpedia.org/resource/Neunkirchen,_Saarland	1	0	0	0	
+POL08	0	9	http://dbpedia.org/resource/Macedonia_(region)	Location	Macedonia	wrong-link	Annotator		1	http://dbpedia.org/resource/Macedonia_(Greece)	0	0	1	0	
+POL08	0	9	http://dbpedia.org/resource/Republic_of_Macedonia	Location	Macedonia	wrong-link	Annotator		1	http://dbpedia.org/resource/Macedonia_(Greece)	1	0	0	0	
+POL08	27	33	http://dbpedia.org/resource/Macedonia_(region)	Location	Greece	wrong-link	Annotator		1	http://dbpedia.org/resource/Greece	0	0	1	0	
+POL09	42	45	http://dbpedia.org/resource/John_F._Kennedy	Person	JFK	wrong-link	Annotator		1	http://dbpedia.org/resource/John_F._Kennedy_International_Airport	1	1	1	0	
+POL10	0	7	http://dbpedia.org/resource/John_F._Kennedy	Person	Kennedy	extra	Annotator		0		0	0	1	0	
+POL10	128	137	http://dbpedia.org/resource/Littleton,_Colorado	Location	Littleton	extra	Annotator		0		1	0	0	0	
+SPO03	0	8	http://dbpedia.org/resource/Athletic_Bilbao	Organisation	Atletico	wrong-link	Annotator		1	http://dbpedia.org/resource/Atlético_Madrid	0	0	1	0	
+SPO04	0	6	http://dbpedia.org/resource/Thomas_Müller	Person	Müller	wrong-link	KB	Redirects or Multiple URIs	1	http://dbpedia.org/resource/Thomas_Müller_(footballer)	0	0	1	0	
+SPO04	33	40	http://dbpedia.org/resource/England	Location	England	wrong-link	Annotator		1	http://dbpedia.org/resource/England_national_football_team	1	1	1	0	
+SPO04	33	40	http://dbpedia.org/resource/England	Location	Englan	wrong-link	Annotator		1	http://dbpedia.org/resource/England_national_football_team	1	1	1	0	
+SPO05	0	6	http://dbpedia.org/resource/Thomas_Linke	Person	Thomas	wrong-link	Annotator		1	http://dbpedia.org/resource/Thomas_Müller_(footballer)	0	0	1	0	
+SPO05	11	16	http://dbpedia.org/resource/Mario_Basler	Person	Mario	wrong-link	Annotator		1	http://dbpedia.org/resource/Mario_Gomez	0	0	1	0	
+SPO05	41	47	http://dbpedia.org/resource/Munich	Location	Munich	wrong-link	Annotator		1	http://dbpedia.org/resource/FC_Bayern_Munich	1	0	1	0	
+SPO06	19	22	http://dbpedia.org/resource/Red_River_of_the_South	Location	Red	extra	Annotator		0		0	1	0	0	
+SPO06	23	27	http://dbpedia.org/resource/Groupe_Bull	Organisation	Bull	extra	Annotator		0		0	1	0	0	
+SPO07	43	49	http://dbpedia.org/resource/Orange_River	Location	Oranj	wrong-link	Annotator		1	http://dbpedia.org/resource/Netherlands_national_football_team	0	1	0	0	
+SPO08	13	19	http://dbpedia.org/resource/Meijer	Organisation	Meijer	wrong-link	Annotator		1	http://dbpedia.org/resource/Erik_Meijer_(footballer)	1	0	0	0	
+SPO08	34	40	http://dbpedia.org/resource/Tivoli,_Lazio	Location	Tivoli	wrong-link	Annotator		1	http://dbpedia.org/resource/New_Tivoli	1	0	0	0	
+SPO09	15	21	http://dbpedia.org/resource/Aachen	Location	Aachen	wrong-link	Annotator		1	http://dbpedia.org/resource/Alemannia_Aachen	1	1	1	0	
+SPO10	19	27	http://dbpedia.org/resource/Dortmund	Location	Dortmund	wrong-link	Annotator		1	http://dbpedia.org/resource/Borussia_Dortmund	0	1	0	0	

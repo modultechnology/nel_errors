@@ -1,0 +1,178 @@
+doc	start	end	link	type	surfaceForm	tac	errorType	errorCause	inGold	goldLink	Spotlight	Babelnet	Aida	Recognyze	Comments
+26	242	254	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburgs	extra	Dataset	Missing Annotation	0		1	0	0	0	
+27	93	99	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Dataset	Missing Annotation	0		1	0	0	0	
+20	1411	1422	http://de.dbpedia.org/resource/Deutschland	Location	Deutschland	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Deustchland	1	0	0	0	This looks like same link!
+20	135	149	http://de.dbpedia.org/resource/Olympiastadion_München	Location	Olympiastadion	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Olympiastadion_Berlin	1	0	0	0	
+20	1333	1344	http://de.dbpedia.org/resource/Deutschland	Location	Deutschland	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Deustchland	1	0	0	0	This looks like same link!
+20	872	883	http://de.dbpedia.org/resource/Olympiapark_(München)	Location	Olympiapark	extra	Annotator		0		1	0	0	0	
+21	567	578	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	wrong-link	Dataset	Annotated to Different Language	1	http://dbpedia.org/resource/Brandenburg	1	0	0	1	goldLink is in EN (missing de in front of DBpedia)
+22	220	223	http://de.dbpedia.org/resource/Nationalsozialistischer_Untergrund	Organisation	NSU	extra	Annotator		0		1	0	0	0	This can also be part of an Event
+23	1404	1411	http://de.dbpedia.org/resource/Haltern_am_See	Location	Haltern	extra	Annotator		0		1	0	0	0	
+28	113	121	http://de.dbpedia.org/resource/Herzberg_(Elster)	Location	Herzberg	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Herzberg	1	0	0	0	
+28	215	223	http://de.dbpedia.org/resource/Mühlberg/Elbe	Location	Mühlberg	extra	Dataset	Missing Annotation	0		1	0	0	0	
+28	1113	1121	http://de.dbpedia.org/resource/Mühlberg/Elbe	Location	Mühlberg	extra	Dataset	Missing Annotation	0		1	0	0	0	
+28	469	477	http://de.dbpedia.org/resource/Mühlberg/Elbe	Location	Mühlberg	extra	Dataset	Missing Annotation	0		1	0	0	0	
+28	231	235	http://de.dbpedia.org/resource/Elbe	Location	Elbe	extra	Dataset	Missing Annotation	0		1	0	0	0	
+29	449	456	http://de.dbpedia.org/resource/Charité	Location	Charite	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Hôpital_de_la_Charité	1	0	0	0	
+29	757	764	http://de.dbpedia.org/resource/Charité	Location	Charite	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Hôpital_de_la_Charité	1	0	0	0	
+29	843	850	http://de.dbpedia.org/resource/Charité	Location	Charite	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Hôpital_de_la_Charité	1	0	0	0	
+29	1418	1425	http://de.dbpedia.org/resource/Charité	Location	Charite	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Hôpital_de_la_Charité	1	0	0	0	
+29	1679	1686	http://de.dbpedia.org/resource/Charité	Location	Charite	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Hôpital_de_la_Charité	1	0	0	0	
+29	2217	2224	http://de.dbpedia.org/resource/Charité	Location	Charite	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Hôpital_de_la_Charité	1	0	0	0	
+29	1944	1951	http://de.dbpedia.org/resource/Rudolf_Virchow	Person	Virchow	extra	Dataset	Missing Annotation	0		1	0	0	0	
+4	1220	1226	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Dataset	Missing Annotation	0		1	0	0	1	
+4	255	269	http://de.dbpedia.org/resource/Komische_Oper_Berlin	Location	Komischen Oper	extra	Dataset	Missing Annotation	0		1	0	0	0	
+4	642	656	http://de.dbpedia.org/resource/Komische_Oper_Berlin	Location	Komischen Oper	extra	Dataset	Missing Annotation	0		1	0	0	0	
+50	443	455	http://de.dbpedia.org/resource/Kleinmachnow	Location	Kleinmachnow	extra	Dataset	Missing Annotation	0		1	0	0	0	
+50	1177	1188	http://de.dbpedia.org/resource/Ostsee	Location	Ostseeküste	extra	Dataset	Missing Annotation	0		1	0	0	0	
+3	1713	1720	http://de.dbpedia.org/resource/Amt_Neuhaus	Location	Neuhaus	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Uwe_Neuhaus	1	0	0	0	
+3	559	565	http://de.dbpedia.org/resource/Berlin	Location	Berlin	wrong-link	Annotator		1	http://de.dWbpedia.org/resource/Berlin	1	0	0	0	
+7	1070	1077	http://de.dbpedia.org/resource/Niederlande	Location	Holland	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Holland	1	0	0	0	
+7	153	165	http://de.dbpedia.org/resource/Deutscher_Dom	Location	Neuen Kirche	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Nieuwe_Kerk_(Amsterdam)	1	0	0	0	
+7	258	265	http://de.dbpedia.org/resource/Potsdam	Location	Potsdam	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Postdam	1	0	0	0	
+7	646	653	http://de.dbpedia.org/resource/Niederlande	Location	Holland	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Holland	1	0	0	0	
+7	1242	1249	http://de.dbpedia.org/resource/Niederlande	Location	Holland	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Holland	1	0	0	0	
+7	1469	1473	http://de.dbpedia.org/resource/Berlin-Prenzlauer_Berg	Location	Kiez	extra	Dataset	Missing Annotation	0		1	0	0	0	
+7	558	564	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Dataset	Missing Annotation	0		1	0	0	1	
+7	1460	1465	http://de.dbpedia.org/resource/Sonne	Location	Sonne	extra	Dataset	Missing Annotation	0		1	0	0	0	
+7	511	517	http://de.dbpedia.org/resource/Oranien	Person	Oranje	extra	Annotator		0		1	0	0	0	
+7	668	683	http://de.dbpedia.org/resource/Niederlande	Location	niederländische	extra	Annotator		0		1	0	0	0	
+38	487	499	http://de.dbpedia.org/resource/New_York_City	Location	New Yorkerin	extra	Annotator		0		1	0	0	0	person?
+32	1230	1233	http://de.dbpedia.org/resource/DHL	Organisation	DHL	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Berlin	1	0	0	0	
+32	564	567	http://de.dbpedia.org/resource/DHL	Organisation	DHL	extra	Annotator		0		1	0	0	0	
+31	882	885	http://de.dbpedia.org/resource/Berliner_Verkehrsbetriebe	Organisation	BVG	wrong-link	Annotator		1	http://de.dbpedia.org/resource/BVG	1	0	0	0	
+31	624	636	http://de.dbpedia.org/resource/Berlin	Location	Berlin-Mitte	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Berlin-Mitte	1	0	0	0	
+31	654	661	http://de.dbpedia.org/resource/Potsdam	Location	Potsdam	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Postdam	1	0	0	0	
+31	267	280	http://de.dbpedia.org/resource/Rundfunk_Berlin-Brandenburg	Location	rbb-online.de	extra	Dataset	Missing Annotation	0		1	0	0	0	
+30	278	286	http://de.dbpedia.org/resource/Istanbul	Location	Istanbul	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Istambul	1	0	0	0	
+37	632	638	http://de.dbpedia.org/resource/Türkei	Location	Türkei	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Türkey	1	0	0	0	
+34	451	454	http://de.dbpedia.org/resource/Nationalsozialistischer_Untergrund	Organisation	NSU	wrong-link	Annotator		1	http://de.dbpedia.org/resource/NSU	1	0	0	0	
+34	1021	1030	http://de.dbpedia.org/resource/IG_Metall	Organisation	IG Metall	wrong-link	Annotator		1	http://de.dbpedia.org/resource/IG-Metall	1	0	0	0	
+34	834	851	http://de.dbpedia.org/resource/Brandenburg_an_der_Havel	Location	Brandenburg/Havel	extra	Dataset	Missing Annotation	0		1	0	0	0	
+34	1370	1387	http://de.dbpedia.org/resource/Borussia_Dortmund	Organisation	Borussia Dortmund	extra	Dataset	Missing Annotation	0		1	0	0	0	
+6	60	71	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	wrong-link	Dataset	Annotated to Different Language	1	http://dbpedia.org/resource/Brandenburg	1	0	0	1	goldLink is EN instead of DE
+6	597	601	http://de.dbpedia.org/resource/Berlin-Prenzlauer_Berg	Location	Kiez	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Kiez	1	0	0	0	
+11	812	824	http://de.dbpedia.org/resource/Ludwigsfelde	Location	Ludwigsfelde	extra	Dataset	Missing Annotation	0		1	0	0	0	
+10	1851	1859	http://de.dbpedia.org/resource/Bobby_Charlton	Person	Charlton	extra	Dataset	Missing Annotation	0		1	0	0	1	
+10	2395	2406	http://de.dbpedia.org/resource/Reichstagsgebäude	Location	Reichstages	extra	Dataset	Missing Annotation	0		1	0	0	0	
+10	904	916	http://de.dbpedia.org/resource/Vereinigte_Staaten	Location	US-Präsident	extra	Annotator		0		1	0	0	0	
+10	1969	1977	http://de.dbpedia.org/resource/Bobby_Charlton	Person	Charlton	extra	Dataset	Missing Annotation	0		1	0	0	1	
+13	274	293	http://de.dbpedia.org/resource/Internationales_Olympisches_Komitee	Organisation	IOC-Vollversammlung	extra	Dataset	Missing Annotation	0		1	0	0	0	
+12	3672	3683	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	wrong-link	Dataset	Annotated to Different Language	1	http://dbpedia.org/resource/Brandenburg	1	0	0	1	goldLink is EN instead of DE
+12	237	248	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	wrong-link	Dataset	Annotated to Different Language	1	http://dbpedia.org/resource/Brandenburg	1	0	0	1	goldLink is EN instead of DE
+12	2381	2387	http://de.dbpedia.org/resource/Nestlé	Organisation	Nestle	extra	Dataset	Missing Annotation	0		1	0	0	0	
+12	1746	1751	http://de.dbpedia.org/resource/Knorr_(Lebensmittelhersteller)	Location	Knorr	extra	Annotator		0		1	0	0	0	organisation/product?
+12	893	912	http://de.dbpedia.org/resource/Verbraucherzentrale	Organisation	Verbraucherzentrale	extra	Dataset	Missing Annotation	0		1	0	0	0	
+12	1486	1506	http://de.dbpedia.org/resource/Verbraucherzentrale	Organisation	Verbraucherzentralen	extra	Dataset	Missing Annotation	0		1	0	0	0	
+12	2291	2310	http://de.dbpedia.org/resource/Verbraucherzentrale	Organisation	Verbraucherzentrale	extra	Dataset	Missing Annotation	0		1	0	0	0	
+15	1083	1099	http://de.dbpedia.org/resource/Willem-Alexander_von_Oranien-Nassau	Person	Willem-Alexander	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Willem-Alexander	1	0	0	0	
+15	106	113	http://de.dbpedia.org/resource/Recep_Tayyip_Erdoğan	Person	Erdogan	extra	Dataset	Missing Annotation	0		1	0	0	0	
+15	989	1004	http://de.dbpedia.org/resource/Niederlande	Location	niederländische	extra	Annotator		0		1	0	0	0	
+15	1116	1131	http://de.dbpedia.org/resource/Angela_Merkel	Person	Bundeskanzlerin	extra	Dataset	Partial Match	0		1	0	0	0	annotation in the gold standard ends at 1138 ("Bundeskanzlerin Merkel")
+14	214	232	http://de.dbpedia.org/resource/Wehrmacht	Organisation	Wehrmachtssoldaten	extra	Dataset	Missing Annotation	0		1	0	0	0	Wehrmachtssoldaten = person
+14	538	552	http://de.dbpedia.org/resource/Schlacht_um_die_Seelower_Höhen	Location	Seelower Höhen	extra	Dataset	Missing Annotation	0		1	0	0	0	
+16	1206	1218	http://de.dbpedia.org/resource/Heiner_Brand	Person	Heiner Brand	extra	Dataset	Missing Annotation	0		1	0	0	1	
+16	139	145	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Dataset	Missing Annotation	0		1	0	0	1	
+16	1224	1243	http://de.dbpedia.org/resource/Bundesministerium_des_Innern	Organisation	Bundesinnenminister	extra	Dataset	Partial Match	0		1	0	0	0	annotation in the gold standard ends at 1275 ("Bundesinnenminister Hans-Peter")
+19	920	932	http://de.dbpedia.org/resource/Messegelände_(Berlin)	Location	Messe Berlin	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Messe_Berlin	1	0	0	0	
+19	229	243	http://de.dbpedia.org/resource/Bezirk_Wedding	Location	Berlin-Wedding	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Berlin-Wedding	1	0	0	0	
+19	1348	1365	http://de.dbpedia.org/resource/Akademie_der_Künste_(Berlin)	Location	Berliner Akademie	extra	Annotator		0		1	0	0	0	Organisation? Institution?
+18	1382	1407	http://de.dbpedia.org/resource/Bundesministerium_für_Verkehr,_Bau_und_Stadtentwicklung	Organisation	Bundesverkehrsministerium	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Bundesministerium_für_Verkehr_und_digitale_Infrastruktur	1	0	0	0	
+18	1589	1594	http://de.dbpedia.org/resource/Amman	Location	Amman	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Horst_Amann	1	0	0	0	
+18	1674	1679	http://de.dbpedia.org/resource/Amman	Location	Amman	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Horst_Amann	1	0	0	0	
+18	1570	1577	http://de.dbpedia.org/resource/Potsdam	Location	Potsdam	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Postdam	1	0	0	0	
+18	186	192	http://de.dbpedia.org/resource/Weiße_Elster	Location	Elster	extra	Dataset	Missing Annotation	0		1	0	0	0	
+18	51	59	http://de.dbpedia.org/resource/Mühlberg/Elbe	Location	Mühlberg	extra	Dataset	Missing Annotation	0		1	0	0	0	
+48	1200	1206	http://de.dbpedia.org/resource/Werder_(Havel)	Location	Werder	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Berlin-Friedrichswerder	1	0	0	0	
+48	1409	1415	http://de.dbpedia.org/resource/Werder_(Havel)	Location	Werder	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Berlin-Friedrichswerder	1	0	0	0	
+48	292	303	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Dataset	Missing Annotation	0		1	0	0	1	
+48	67	78	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Dataset	Missing Annotation	0		1	0	0	1	
+48	2963	2974	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Dataset	Missing Annotation	0		1	0	0	1	
+49	925	937	http://de.dbpedia.org/resource/Berliner_Dom	Location	Berliner Dom	extra	Dataset	Missing Annotation	0		1	0	0	1	
+49	592	605	http://de.dbpedia.org/resource/Katarina_Witt	Person	Katarina Witt	extra	Dataset	Missing Annotation	0		1	0	0	1	
+46	1052	1059	http://de.dbpedia.org/resource/Berlin-Spandau	Location	Spandau	extra	Dataset	Missing Annotation	0		1	0	0	0	
+47	226	239	http://de.dbpedia.org/resource/Füchse_Berlin_Reinickendorf	Organisation	Füchse Berlin	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Füchse_Berlin	1	0	0	0	
+47	957	962	http://de.dbpedia.org/resource/Sonne	Location	Sonne	extra	Dataset	Missing Annotation	0		1	0	0	0	
+47	485	495	http://de.dbpedia.org/resource/SV_Babelsberg_03	Organisation	Babelsberg	extra	Dataset	Missing Annotation	0		1	0	0	0	
+47	352	364	http://de.dbpedia.org/resource/Metropolregion_Rhein-Neckar	Location	Rhein-Neckar	extra	Dataset	Missing Annotation	0		1	0	0	0	
+44	555	566	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Dataset	Missing Annotation	0		1	0	0	1	
+44	819	830	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Dataset	Missing Annotation	0		1	0	0	1	
+45	253	256	http://de.dbpedia.org/resource/Rundfunk_Berlin-Brandenburg	Location	RBB	extra	Dataset	Missing Annotation	0		1	0	0	0	organisation?
+43	507	513	http://de.dbpedia.org/resource/Aphrodite	Person	Urania	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Urania_(Berlin)	1	0	0	0	
+43	1493	1503	http://de.dbpedia.org/resource/Stahnsdorf	Location	Stahnsdorf	extra	Dataset	Missing Annotation	0		1	0	0	0	
+40	1010	1028	http://de.dbpedia.org/resource/Generalbundesanwalt_beim_Bundesgerichtshof	Organisation	Bundesanwaltschaft	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Bundesanwaltschaft	1	0	0	0	
+40	1594	1612	http://de.dbpedia.org/resource/Generalbundesanwalt_beim_Bundesgerichtshof	Organisation	Bundesanwaltschaft	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Bundesanwaltschaft	1	0	0	0	
+40	1527	1545	http://de.dbpedia.org/resource/Generalbundesanwalt_beim_Bundesgerichtshof	Organisation	Bundesanwaltschaft	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Bundesanwaltschaft	1	0	0	0	
+40	1271	1285	http://de.dbpedia.org/resource/Bundesagentur_für_Arbeit	Organisation	Arbeitsagentur	extra	Dataset	Missing Annotation	0		1	0	0	0	
+41	978	985	http://de.dbpedia.org/resource/Charité	Location	Charite	extra	Dataset	Missing Annotation	0		1	0	0	0	
+1	701	712	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Dataset	Missing Annotation	0		1	0	0	1	
+1	36	45	http://de.dbpedia.org/resource/Havelland	Location	Havelland	extra	Dataset	Missing Annotation	0		1	0	0	1	
+5	98	106	http://de.dbpedia.org/resource/Schweden	Location	Schweden	extra	Dataset	Missing Annotation	0		1	0	0	0	
+9	1105	1111	http://de.dbpedia.org/resource/Berlin	Location	Berlin	wrong-link	Dataset	Annotated to Different Language	1	http://dbpedia.org/resource/Berlin	1	0	0	1	
+9	230	236	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Dataset	Missing Annotation	0		1	0	0	1	
+9	963	975	http://de.dbpedia.org/resource/Niederlande	Location	Niederlanden	extra	Dataset	Missing Annotation	0		1	0	0	1	
+10	1105	1109	http://de.dbpedia.org/resource/Dazu	Location	Dazu	extra	Annotator		0		0	0	0	1	
+10	182	196	http://de.dbpedia.org/resource/Bertolt_Brecht	Person	Bertolt Brecht	extra	Annotator		0		0	0	0	1	
+10	435	441	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+11	336	351	http://de.dbpedia.org/resource/Heinrich_Scholl	Person	Heinrich Scholl	extra	Dataset	Missing Annotation	0		0	0	0	1	
+11	648	663	http://de.dbpedia.org/resource/Heinrich_Scholl	Person	Heinrich Scholl	extra	Dataset	Missing Annotation	0		0	0	0	1	
+11	904	908	http://de.dbpedia.org/resource/Mann_(Rapper)	Person	Mann	extra	Annotator		0		0	0	0	1	
+12	1421	1424	http://de.dbpedia.org/resource/360_(Rapper)	Person	360	extra	Annotator		0		0	0	0	1	
+12	193	204	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Annotator		0		0	0	0	1	
+12	2585	2596	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Annotator		0		0	0	0	1	
+12	3374	3385	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Annotator		0		0	0	0	1	
+15	895	899	http://de.dbpedia.org/resource/2009	Location	2009	extra	KB	Wrong Type	0		0	0	0	1	
+16	1244	1254	http://de.dbpedia.org/resource/Hans_Peter	Person	Hans Peter	extra	Annotator		0		0	0	0	1	
+17	620	632	http://de.dbpedia.org/resource/Simon_Rattle	Person	Simon Rattle	extra	Dataset	Missing Annotation	0		0	0	0	1	
+18	1492	1495	http://de.dbpedia.org/resource/Den_(König)	Person	Den	extra	Annotator		0		0	0	0	1	
+18	1504	1513	http://de.dbpedia.org/resource/Hany_Azer	Person	Hany Azer	extra	Dataset	Missing Annotation	0		0	0	0	1	
+18	1529	1541	http://de.dbpedia.org/resource/Hauptbahnhof	Location	Hauptbahnhof	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Berlin_Hauptbahnhof	0	0	0	1	
+19	12	18	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Dataset	Missing Annotation	0		0	0	0	1	
+19	229	235	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+19	926	932	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+21	1116	1134	http://de.dbpedia.org/resource/Regine_Hildebrandt	Person	Regine Hildebrandt	extra	Annotator		0		0	0	0	1	
+21	28	41	http://de.dbpedia.org/resource/Johanna_Wanka	Person	Johanna Wanka	extra	Dataset	Wrong Annotation	0		0	0	0	1	
+21	726	735	http://de.dbpedia.org/resource/Gabelmann	Location	Gabelmann	extra	Annotator		0		0	0	0	1	
+23	1129	1133	http://de.dbpedia.org/resource/Mann_(Rapper)	Person	Mann	extra	Annotator		0		0	0	0	1	
+23	283	288	http://de.dbpedia.org/resource/Nacht_(Obervermögensverwalter)	Person	Nacht	extra	Annotator		0		0	0	0	1	
+24	268	276	http://de.dbpedia.org/resource/Friedhof	Location	Friedhof	extra	Dataset	Missing Annotation	0		0	0	0	1	
+24	711	719	http://de.dbpedia.org/resource/Friedhof	Location	Friedhof	extra	Dataset	Missing Annotation	0		0	0	0	1	
+25	1285	1289	http://de.dbpedia.org/resource/Dazu	Location	Dazu	extra	Annotator		0		0	0	0	1	
+26	1203	1212	http://de.dbpedia.org/resource/Kraftwerk	Location	Kraftwerk	extra	Annotator		0		0	0	0	1	
+26	1589	1600	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Annotator		0		0	0	0	1	
+26	690	696	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+27	93	99	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+28	311	324	http://de.dbpedia.org/resource/Andreas_Rauch	Person	Andreas Rauch	extra	Annotator		0		0	0	0	1	
+28	955	961	http://de.dbpedia.org/resource/Marken	Location	Marken	extra	Annotator		0		0	0	0	1	
+29	2362	2365	http://de.dbpedia.org/resource/Den_(König)	Person	Den	extra	Annotator		0		0	0	0	1	
+32	38	59	http://de.dbpedia.org/resource/Straße_der_Erinnerung	Location	Straße der Erinnerung	extra	Dataset	Missing Annotation	0		0	0	0	1	
+32	96	110	http://de.dbpedia.org/resource/Käthe_Kollwitz	Person	Käthe Kollwitz	extra	Dataset	Missing Annotation	0		0	0	0	1	
+34	1349	1355	http://de.dbpedia.org/resource/Bayern	Location	Bayern	extra	Annotator		0		0	0	0	1	
+34	834	845	http://de.dbpedia.org/resource/Brandenburg	Location	Brandenburg	extra	Dataset	Missing Annotation	0		0	0	0	1	
+34	938	944	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+35	47	53	http://de.dbpedia.org/resource/Leider	Location	Leider	extra	Annotator		0		0	0	0	1	
+37	230	245	http://de.dbpedia.org/resource/Matthias_Möller	Person	Matthias Möller	extra	Dataset	Missing Annotation	0		0	0	0	1	
+3	1145	1160	http://de.dbpedia.org/resource/Benjamin_Köhler	Person	Benjamin Köhler	wrong-link	Annotator	Anomaly	1	http://dbpedia.org/resource/Benjamin_Köhler	0	0	0	1	
+3	559	565	http://de.dbpedia.org/resource/Berlin	Location	Berlin	wrong-link	Annotator		1	http://de.dbpedia.org/resource/Berlin	0	0	0	1	
+3	742	748	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+40	1147	1151	http://de.dbpedia.org/resource/2009	Location	2009	extra	KB	Wrong Type	0		0	0	0	1	
+41	2798	2805	http://de.dbpedia.org/resource/Gotfrid	Person	Gotfrid	extra	Annotator		0		0	0	0	1	
+41	700	707	http://de.dbpedia.org/resource/Gotfrid	Person	Gotfrid	extra	Annotator		0		0	0	0	1	
+42	1732	1735	http://de.dbpedia.org/resource/Den_(König)	Person	Den	extra	Annotator		0		0	0	0	1	
+42	519	529	http://de.dbpedia.org/resource/Regenbogen_(Spruchdichter)	Person	Regenbogen	extra	Annotator		0		0	0	0	1	
+42	601	611	http://de.dbpedia.org/resource/Regenbogen_(Spruchdichter)	Person	Regenbogen	extra	Annotator		0		0	0	0	1	
+43	1815	1819	http://de.dbpedia.org/resource/Dazu	Location	Dazu	extra	Annotator		0		0	0	0	1	
+46	575	579	http://de.dbpedia.org/resource/Dazu	Location	Dazu	extra	Annotator		0		0	0	0	1	
+47	233	239	http://de.dbpedia.org/resource/Berlin	Location	Berlin	extra	Annotator		0		0	0	0	1	
+47	485	495	http://de.dbpedia.org/resource/Babelsberg	Location	Babelsberg	extra	Annotator		0		0	0	0	1	
+47	876	881	http://de.dbpedia.org/resource/Nacht_(Obervermögensverwalter)	Person	Nacht	extra	Annotator		0		0	0	0	1	
+49	200	204	http://de.dbpedia.org/resource/Mann_(Rapper)	Person	Mann	extra	Annotator		0		0	0	0	1	
+49	553	568	http://de.dbpedia.org/resource/Dagmar_Frederic	Person	Dagmar Frederic	extra	Dataset	Wrong Annotation	0		0	0	0	1	
+49	650	660	http://de.dbpedia.org/resource/Carl_Thiem	Person	Carl Thiem	extra	Annotator		0		0	0	0	1	
+4	1354	1358	http://de.dbpedia.org/resource/Mann_(Rapper)	Person	Mann	extra	Annotator		0		0	0	0	1	
+4	1467	1471	http://de.dbpedia.org/resource/Mann_(Rapper)	Person	Mann	extra	Annotator		0		0	0	0	1	
+5	216	219	http://de.dbpedia.org/resource/Den_(König)	Person	Den	extra	Annotator		0		0	0	0	1	
+6	1084	1089	http://de.dbpedia.org/resource/Demos_(Platon)	Person	Demos	extra	Annotator		0		0	0	0	1	
+6	140	149	http://de.dbpedia.org/resource/Mauerpark	Location	Mauerpark	extra	Annotator		0		0	0	0	1	
+8	130	136	http://de.dbpedia.org/resource/Leider	Location	Leider	extra	Annotator		0		0	0	0	1	
+8	323	327	http://de.dbpedia.org/resource/Seen_(Graffitikünstler)	Person	Seen	extra	Annotator		0		0	0	0	1	
