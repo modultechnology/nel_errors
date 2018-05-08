@@ -14,6 +14,9 @@ This project contains small scripts that were used for the error analysis work d
 * guideline - annotation guideline
 * examples - examples discussed in the paper
 
+### DOCUMENTATION
+[Documentation](https://github.com/modultechnology/nel_errors/wiki)
+
 ### WORKFLOW
 
 #### Current
