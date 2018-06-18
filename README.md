@@ -4,9 +4,24 @@
 
 This project contains small scripts that were used for the error analysis work described in:
 
-    Adrian M.P. Brasoveanu, Giuseppe Rizzo, Philipp Kuntshik, Albert Weichselbraun, Lyndon J.B. Nixon. 
-    Framing Named Entity Linking Error Types. 
-    LREC 2018.
+```tex
+@inproceedings{brasoveanu2018lrec,
+  author = {Adrian M.P. Bra{\c{s}}oveanu and Giuseppe Rizzo and Philipp Kuntschick and Albert Weichselbraun and Lyndon J.B. Nixon},
+  title = {Framing Named Entity Linking Error Types},
+  booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  editor = {Nicoletta Calzolari and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
+  publisher = {European Language Resources Association (ELRA)},
+  address = {Paris, France},
+  isbn = {979-10-95546-00-9},
+  language = {english},
+  pages = {266-271},
+  year = {2018},
+  month = {may},
+  date = {7-12},
+  location = {Miyazaki, Japan},
+  url = {http://www.lrec-conf.org/proceedings/lrec2018/summaries/612.html}
+}
+```
 
 ### FOLDERS
 * src - source code files
